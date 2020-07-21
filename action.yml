@@ -2,7 +2,7 @@ name: "dotnet-format"
 
 description: "Run dotnet format and optionally apply any fixes"
 
-author: "xt0rted"
+author: "eduphoria"
 
 branding:
   icon: "file-text"
